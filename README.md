@@ -1,5 +1,5 @@
 <!-- ░░░ HEADER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=D97757&text=ZAID%20BIN%20TARIQ&fontColor=FAF9F5&fontSize=56&fontAlignY=42&desc=web3%20%E2%80%A2%20full-stack%20%E2%80%A2%20AI%20tinkerer&descAlignY=66&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=D97757&text=ZAID%20BIN%20TARIQ&fontColor=FAF9F5&fontSize=56&fontAlignY=42&desc=Full-stack%20%E2%80%A2%20Forward%20Deployed%20Engineer%20%E2%80%A2%20AI-native%20dev&descAlignY=66&descSize=18&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,48 +16,41 @@
 
 ---
 
-### `$ whoami`
-
-```ts
-const zaid = {
-  location:   "Islamabad, PK 🇵🇰",
-  currently:  "Building AI agents @ ContentStudio 🤖",
-  obsessedWith: ["Web3", "Trading bots", "Wallets", "LLM apps"],
-  chains:     ["Ethereum", "Solana", "Tron", "Hyperledger Fabric"],
-  shipping:   "Computer-vision pattern detection (PatternPro) 👁️",
-  funFact:    "Follows 371 devs because good code is contagious 🦠",
-  vibe:       "hustle > hype",
-};
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/whoami-dark.svg" />
+    <img width="100%" alt="whoami — Zaid Bin Tariq, full-stack forward deployed engineer and AI-native dev in Islamabad, building AI agents at ContentStudio" src="./assets/whoami.svg" />
+  </picture>
+</p>
 
 ### 🧰 Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,java,php&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,nestjs,express&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=solidity,kafka,docker,postgres,mongodb,redis&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,androidstudio,git,linux,vercel,vscode&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Solana-141413?style=flat-square&logo=solana&logoColor=D97757"/>
-  <img src="https://img.shields.io/badge/Ethereum-141413?style=flat-square&logo=ethereum&logoColor=D97757"/>
-  <img src="https://img.shields.io/badge/MetaMask-141413?style=flat-square&logo=metamask&logoColor=D97757"/>
-  <img src="https://img.shields.io/badge/Hyperledger-141413?style=flat-square&logo=hyperledger&logoColor=D97757"/>
-  <img src="https://img.shields.io/badge/LangChain-141413?style=flat-square&logo=langchain&logoColor=D97757"/>
-  <img src="https://img.shields.io/badge/OpenAI-141413?style=flat-square&logo=openai&logoColor=D97757"/>
-  <img src="https://img.shields.io/badge/WebRTC-141413?style=flat-square&logo=webrtc&logoColor=D97757"/>
-</p>
-
-### 🚀 Featured builds
-
-| | Project | What it does |
-|:-:|---|---|
-| 🦊 | [**react-native-metamask-boilerplate**](https://github.com/thezaidbintariq/react-native-metamask-boilerplate) | Drop-in MetaMask wallet connect for React Native apps |
-| ⚡ | [**solana-trading-cli**](https://github.com/thezaidbintariq/solana-trading-cli) | Low-latency Solana trading modules — Jito, Jupiter, gRPC bots |
-| 🪙 | [**coinbase-cdp-demos**](https://github.com/thezaidbintariq/coinbase-cdp-demos) | Playing with the Coinbase Developer Platform |
-| 🤖 | [**contentstudio-agent**](https://github.com/thezaidbintariq/contentstudio-agent) | AI agent work for ContentStudio |
-| 🧵 | [**microservices-kafka**](https://github.com/thezaidbintariq/microservices-kafka) | Event-driven microservices with Kafka |
+<table align="center">
+  <tr>
+    <td align="right"><sub><code>LANGUAGES</code></sub></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,solidity,kotlin,java,php&perline=8&theme=dark"/><img height="40" src="https://skillicons.dev/icons?i=ts,js,python,solidity,kotlin,java,php&perline=8&theme=light"/></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>FRONTEND</code></sub></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&perline=8&theme=dark"/><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&perline=8&theme=light"/></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>BACKEND &amp; DATA</code></sub></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,kafka,postgres,mongodb,redis&perline=8&theme=dark"/><img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,kafka,postgres,mongodb,redis&perline=8&theme=light"/></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>WEB3</code></sub></td>
+    <td><img src="https://img.shields.io/badge/Solana-141413?style=for-the-badge&logo=solana&logoColor=D97757"/> <img src="https://img.shields.io/badge/Ethereum-141413?style=for-the-badge&logo=ethereum&logoColor=D97757"/> <img src="https://img.shields.io/badge/MetaMask-141413?style=for-the-badge&logo=metamask&logoColor=D97757"/> <img src="https://img.shields.io/badge/Hyperledger-141413?style=for-the-badge&logo=hyperledger&logoColor=D97757"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>AI</code></sub></td>
+    <td><img src="https://img.shields.io/badge/LangChain-141413?style=for-the-badge&logo=langchain&logoColor=D97757"/> <img src="https://img.shields.io/badge/OpenAI-141413?style=for-the-badge&logo=openai&logoColor=D97757"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>TOOLING</code></sub></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,linux,vercel,androidstudio,vscode&perline=8&theme=dark"/><img height="40" src="https://skillicons.dev/icons?i=docker,git,linux,vercel,androidstudio,vscode&perline=8&theme=light"/></picture></td>
+  </tr>
+</table>
 
 ### 📊 By the numbers
 
