@@ -62,16 +62,17 @@ const zaid = {
 ### 📊 By the numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thezaidbintariq&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=FAF9F5&title_color=D97757&text_color=141413&icon_color=D97757" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaidbintariq&layout=compact&langs_count=8&hide_border=true&bg_color=FAF9F5&title_color=D97757&text_color=141413&icon_color=D97757" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thezaidbintariq/thezaidbintariq/output/stats-dark.svg" />
+    <img width="100%" alt="GitHub stats" src="https://raw.githubusercontent.com/thezaidbintariq/thezaidbintariq/output/stats.svg" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thezaidbintariq&hide_border=true&background=FAF9F5&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=141413&sideNums=141413&currStreakNum=141413&dates=87867F&stroke=E8E6DC" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thezaidbintariq&bg_color=FAF9F5&color=141413&title_color=D97757&line=D97757&point=141413&area=false&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thezaidbintariq&bg_color=262624&color=FAF9F5&title_color=D97757&line=D97757&point=FAF9F5&area=false&hide_border=true&radius=14&custom_title=Contributions%20%C2%B7%20last%2031%20days" />
+    <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=thezaidbintariq&bg_color=FAF9F5&color=141413&title_color=D97757&line=D97757&point=141413&area=false&hide_border=true&radius=14&custom_title=Contributions%20%C2%B7%20last%2031%20days" />
+  </picture>
 </p>
 
 ### 🐍 Watch the snake eat my commits
