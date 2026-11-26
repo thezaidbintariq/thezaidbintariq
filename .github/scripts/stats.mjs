@@ -54,7 +54,7 @@ function render(u, t) {
 
   const tiles = [
     ["Contributions", cc.contributionCalendar.totalContributions, "last 12 months"],
-    ["Commits", cc.totalCommitContributions, cc.restrictedContributionsCount ? `+${fmt(cc.restrictedContributionsCount)} private contribs` : "public"],
+    ["Private work", cc.restrictedContributionsCount, `+ ${fmt(cc.totalCommitContributions)} public commits`],
     ["Pull requests", cc.totalPullRequestContributions, `${cc.totalPullRequestReviewContributions} reviewed`],
     ["Issues", cc.totalIssueContributions, "opened"],
     ["Current streak", current, current === 1 ? "day" : "days"],
