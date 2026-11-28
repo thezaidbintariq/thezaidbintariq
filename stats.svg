@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="388" viewBox="0 0 840 388" role="img" aria-label="GitHub stats for thezaidbintariq">
+<style>
+  .serif{font-family:Georgia,'Times New Roman',serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .fade{opacity:0;animation:in .5s ease-out forwards}
+  @keyframes in{to{opacity:1}}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .bar{transform-box:fill-box;transform-origin:left;animation:grow .8s ease-out both}
+</style>
+<rect x="0.5" y="0.5" width="839" height="387" rx="14" fill="#FAF9F5" stroke="#E8E6DC"/>
+<text x="32" y="42" class="serif" font-size="22" fill="#141413">By the numbers</text>
+<circle cx="804" cy="35" r="5" fill="#D97757"/>
+<text x="792" y="40" class="mono" font-size="11" fill="#87867F" text-anchor="end">updated 2026-11-28</text>
+<g class="fade" style="animation-delay:0ms">
+  
+  <text x="32" y="92" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">CONTRIBUTIONS</text>
+  <text x="32" y="130" class="serif" font-size="34" fill="#D97757">2,188</text>
+  <text x="32" y="150" class="mono" font-size="11" fill="#87867F">last 12 months</text>
+</g>
+<g class="fade" style="animation-delay:60ms">
+  <line x1="226" y1="80" x2="226" y2="152" stroke="#E8E6DC"/>
+  <text x="244" y="92" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">PRIVATE WORK</text>
+  <text x="244" y="130" class="serif" font-size="34" fill="#141413">2,164</text>
+  <text x="244" y="150" class="mono" font-size="11" fill="#87867F">+ 17 public commits</text>
+</g>
+<g class="fade" style="animation-delay:120ms">
+  <line x1="420" y1="80" x2="420" y2="152" stroke="#E8E6DC"/>
+  <text x="438" y="92" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">PULL REQUESTS</text>
+  <text x="438" y="130" class="serif" font-size="34" fill="#141413">3</text>
+  <text x="438" y="150" class="mono" font-size="11" fill="#87867F">0 reviewed</text>
+</g>
+<g class="fade" style="animation-delay:180ms">
+  <line x1="614" y1="80" x2="614" y2="152" stroke="#E8E6DC"/>
+  <text x="632" y="92" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">ISSUES</text>
+  <text x="632" y="130" class="serif" font-size="34" fill="#141413">0</text>
+  <text x="632" y="150" class="mono" font-size="11" fill="#87867F">opened</text>
+</g>
+<g class="fade" style="animation-delay:240ms">
+  
+  <text x="32" y="184" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">CURRENT STREAK</text>
+  <text x="32" y="222" class="serif" font-size="34" fill="#141413">0</text>
+  <text x="32" y="242" class="mono" font-size="11" fill="#87867F">days</text>
+</g>
+<g class="fade" style="animation-delay:300ms">
+  <line x1="226" y1="172" x2="226" y2="244" stroke="#E8E6DC"/>
+  <text x="244" y="184" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">LONGEST STREAK</text>
+  <text x="244" y="222" class="serif" font-size="34" fill="#141413">12</text>
+  <text x="244" y="242" class="mono" font-size="11" fill="#87867F">days</text>
+</g>
+<g class="fade" style="animation-delay:360ms">
+  <line x1="420" y1="172" x2="420" y2="244" stroke="#E8E6DC"/>
+  <text x="438" y="184" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">STARS EARNED</text>
+  <text x="438" y="222" class="serif" font-size="34" fill="#141413">1</text>
+  <text x="438" y="242" class="mono" font-size="11" fill="#87867F">on own repos</text>
+</g>
+<g class="fade" style="animation-delay:420ms">
+  <line x1="614" y1="172" x2="614" y2="244" stroke="#E8E6DC"/>
+  <text x="632" y="184" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">FOLLOWERS</text>
+  <text x="632" y="222" class="serif" font-size="34" fill="#141413">26</text>
+  <text x="632" y="242" class="mono" font-size="11" fill="#87867F">129 public repos</text>
+</g>
+<line x1="32" y1="266" x2="808" y2="266" stroke="#E8E6DC"/>
+<text x="32" y="292" class="mono" font-size="10.5" letter-spacing="1.2" fill="#87867F">LANGUAGES · PUBLIC REPOS</text>
+<rect class="bar" style="animation-delay:300ms" x="32.0" y="306" width="597.5" height="10" rx="2" fill="#D97757"/>
+<rect class="bar" style="animation-delay:380ms" x="631.5" y="306" width="67.1" height="10" rx="2" fill="#141413"/>
+<rect class="bar" style="animation-delay:460ms" x="700.6" y="306" width="60.8" height="10" rx="2" fill="#B5583A"/>
+<rect class="bar" style="animation-delay:540ms" x="763.4" y="306" width="24.7" height="10" rx="2" fill="#87867F"/>
+<rect class="bar" style="animation-delay:620ms" x="790.1" y="306" width="15.3" height="10" rx="2" fill="#E3A88C"/>
+<rect class="bar" style="animation-delay:700ms" x="807.4" y="306" width="1.0" height="10" rx="2" fill="#D1CFC5"/>
+<g class="fade" style="animation-delay:600ms"><rect x="32" y="336" width="9" height="9" rx="2" fill="#D97757"/><text x="47" y="345" class="mono" font-size="11.5" fill="#141413">JavaScript <tspan fill="#87867F">77.3%</tspan></text></g>
+<g class="fade" style="animation-delay:660ms"><rect x="181" y="336" width="9" height="9" rx="2" fill="#141413"/><text x="196" y="345" class="mono" font-size="11.5" fill="#141413">CSS <tspan fill="#87867F">8.9%</tspan></text></g>
+<g class="fade" style="animation-delay:720ms"><rect x="274" y="336" width="9" height="9" rx="2" fill="#B5583A"/><text x="289" y="345" class="mono" font-size="11.5" fill="#141413">TypeScript <tspan fill="#87867F">8.1%</tspan></text></g>
+<g class="fade" style="animation-delay:780ms"><rect x="416" y="336" width="9" height="9" rx="2" fill="#87867F"/><text x="431" y="345" class="mono" font-size="11.5" fill="#141413">Solidity <tspan fill="#87867F">3.4%</tspan></text></g>
+<g class="fade" style="animation-delay:840ms"><rect x="544" y="336" width="9" height="9" rx="2" fill="#E3A88C"/><text x="559" y="345" class="mono" font-size="11.5" fill="#141413">HTML <tspan fill="#87867F">2.2%</tspan></text></g>
+<g class="fade" style="animation-delay:900ms"><rect x="644" y="336" width="9" height="9" rx="2" fill="#D1CFC5"/><text x="659" y="345" class="mono" font-size="11.5" fill="#141413">Shell <tspan fill="#87867F">0.1%</tspan></text></g>
+</svg>
